@@ -8,11 +8,21 @@ namespace Idem_01 {
             var columnRange = new Vector2(10, 100);
             
             var random = new Random();
+            
             var size = new Vector2(
                 random.Next((int)rowRange.X, (int)rowRange.Y),
                 random.Next((int)columnRange.X, (int)columnRange.Y));
             
             var map = new Map(size);
+            
+
+
+            var hero = new Hero(new Vector2(0,0));
+            map.PlaceHero(hero, size);
+            
+            
+
+            map.DisplayMap();
         }
     }
 }

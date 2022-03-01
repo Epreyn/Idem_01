@@ -2,7 +2,6 @@
 /Users/pierre/RiderProjects/Idem_01/Idem_01/bin/Debug/net5.0/Idem_01.runtimeconfig.json
 /Users/pierre/RiderProjects/Idem_01/Idem_01/bin/Debug/net5.0/Idem_01.runtimeconfig.dev.json
 /Users/pierre/RiderProjects/Idem_01/Idem_01/bin/Debug/net5.0/Idem_01.dll
-/Users/pierre/RiderProjects/Idem_01/Idem_01/bin/Debug/net5.0/ref/Idem_01.dll
 /Users/pierre/RiderProjects/Idem_01/Idem_01/bin/Debug/net5.0/Idem_01.pdb
 /Users/pierre/RiderProjects/Idem_01/Idem_01/obj/Debug/net5.0/Idem_01.csproj.AssemblyReference.cache
 /Users/pierre/RiderProjects/Idem_01/Idem_01/obj/Debug/net5.0/Idem_01.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,5 @@
 /Users/pierre/RiderProjects/Idem_01/Idem_01/obj/Debug/net5.0/ref/Idem_01.dll
 /Users/pierre/RiderProjects/Idem_01/Idem_01/obj/Debug/net5.0/Idem_01.pdb
 /Users/pierre/RiderProjects/Idem_01/Idem_01/obj/Debug/net5.0/Idem_01.genruntimeconfig.cache
+/Users/pierre/RiderProjects/Idem_01/Idem_01/bin/Debug/net5.0/Idem_01
+/Users/pierre/RiderProjects/Idem_01/Idem_01/obj/Debug/net5.0/refint/Idem_01.dll
