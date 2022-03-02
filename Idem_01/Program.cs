@@ -15,14 +15,16 @@ namespace Idem_01 {
             
             var map = new Map(size);
             
-
-
-            var hero = new Hero(new Vector2(0,0));
+            var hero = new Hero();
             map.PlaceHero(hero, size);
-            
-            
 
-            map.DisplayMap();
+            while (true) {
+                map.DisplayMap();
+                hero.Action(map.tileMap);
+                
+                Console.Clear();
+            }
+            
         }
     }
 }

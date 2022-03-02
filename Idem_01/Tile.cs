@@ -6,7 +6,8 @@ namespace Idem_01 {
     public class Tile {
         private Vector2 position;
         public char sprite;
-        private bool passable;
+        public bool passable { get; private set; }
+        
 
         public Tile(Vector2 position, int rowCount, int columnCount) {
             this.position = position;
@@ -26,10 +27,6 @@ namespace Idem_01 {
                 _ => ConsoleColor.DarkGray
             };
             Console.Write(sprite);
-        }
-
-        public void AttributeHero() {
-            sprite = '@';
         }
     }
 }
